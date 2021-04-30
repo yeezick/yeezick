@@ -18,10 +18,10 @@
   If you are an aspiring software developer who's in the same boat as me <b> or </b> you're here to professionally assess me, please reach out so we can learn, build your business, or do both together!
   <br>
   Contact me using: 
-  <br>
-  <a href="https://www.linkedin.com/in/erick-manrique/"> LinkedIn </a> 
-  <br>
-  <a href='mailto:ramerick5@gmail.com?subject=Nice%20Webpage'> Email </a> 
+  <ul>
+  <li><a href="https://www.linkedin.com/in/erick-manrique/"> LinkedIn </a> </li>
+  <li><a href='mailto:ramerick5@gmail.com?subject=Nice%20Webpage'> Email </a> </li>
+  </ul>
   
   The skills currently under my belt are:
   <ul>
