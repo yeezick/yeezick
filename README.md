@@ -6,7 +6,7 @@
   
   A quick about me:
   <br>
-  I am a 21 year old, self-taught, junior web-developer based in Hollywood, Florida. I almost signed up for a bootcamp with a $30k ISA... but I realized the learning format was simliar to self-teaching & I believed in myself. 
+  I am a 21 year old, self-taught, junior web-developer based in Hollywood, Florida. A bootcamp prep-course was enough to show me I could do it myself. I've since tailored my own curriculum, which includes: a long term course covering full-stack development, a daily challenge in JavaScript, and short courses to supplement JavaScript capability & strengthen Computer Science fundamentals. 
   <br>
   
   I aspire to be at least a front-end developer by July 2021. My long-term goal is to become a full-stack Software Engineer, as soon as mentally possible. It's very inspiring to me to think I may end up writing programs for companies like NASA, Tesla, Apple, or maybe even developing high-quality games for a company like EA. 
