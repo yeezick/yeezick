@@ -1,6 +1,3 @@
-<em>Day (21) of 100 Days of Code!</em>
-<br>
-  
   Welcome to my gitHub! 
   <br>
   
