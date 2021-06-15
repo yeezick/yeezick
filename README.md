@@ -1,7 +1,7 @@
-  Welcome to my gitHub! 
+  # Welcome to my gitHub! 
   <br>
   
-  A quick about me:
+  ## A quick about me:
   <br>
   I am a 21 year old, self-taught, junior web-developer based in Hollywood, Florida. A bootcamp prep-course was enough to show me I could do it myself. I've since tailored my own curriculum, which includes: a long term course covering full-stack development, a daily challenge in JavaScript, and short courses to supplement JavaScript capability & strengthen Computer Science fundamentals. 
   <br>
@@ -14,13 +14,13 @@
   
   If you are an aspiring software developer who's in the same boat as me <b> or </b> you're here to professionally assess me, please reach out so we can learn, build your business, or do both together!
   <br>
-  Contact me using: 
+   ### Contact me using: 
   <ul>
   <li><a href="https://www.linkedin.com/in/erick-manrique/"> LinkedIn </a> </li>
   <li><a href='mailto:ramerick5@gmail.com?subject=Nice%20Webpage'> Email </a> </li>
   </ul>
   
-  The skills currently under my belt are:
+   #### The skills currently under my belt are:
   <ul>
   <li> HTML </li>
   <li> CSS </>
@@ -29,7 +29,7 @@
   <li> jQuery </li>
   </ul>
   
-  I'm currently learning: 
+  #### I'm currently learning: 
   <ul> 
   <li> Adv. JavaScript </li> 
   <li> Node.js </li>
