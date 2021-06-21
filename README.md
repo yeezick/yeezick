@@ -1,8 +1,4 @@
   # Welcome to my GitHub! 
-  <br>
-  
-  ## A quick about me:
-  <br>
   I am a 21 year old, self-taught, junior web-developer based in Hollywood, Florida. A bootcamp prep-course was enough to show me I could do it myself. I've since tailored my own curriculum, which includes: a long term course covering full-stack development, a daily challenge in JavaScript, and short courses to supplement JavaScript capability & strengthen Computer Science fundamentals. 
   <br>
   
