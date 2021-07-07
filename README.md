@@ -15,9 +15,10 @@ This led me to General Assembly! Where I'm currently learning MERN and only gett
   ### Tl;dr
   I'm a nerd at heart with a huge passion for human evolution, space, and nature.
   
-  If you are an aspiring software developer who's in the same boat as me <b> or </b> you're here to professionally assess me, please reach out so we can learn, build your business, or do both together!
-  
-  ### Connect with me via: 
+  ### Let's Connect!
+
+  If you are an aspiring software developer who's in the same boat as me <b> or </b> you're here to professionally assess me, please reach out so we can learn, build, or both together!
+
   
   <ul>
   <li><a href="https://www.linkedin.com/in/erick-manrique/"> LinkedIn </a> </li>
