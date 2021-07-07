@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/yeezick/iNetwork/main/src/images/erick-cool.gif" alt="my personal gif from GA :erick-cool:" width="100px" height="100px"/>
   </div>
   
-# Erick Manrique
+# Erick Manrique [he/him]
 
 ### Who Am I?
 I'm a student of General Assembly's Software Engineering program where I'm learning the MERN-stack, with a hint of Rails at the end. The proximity of cities with skylines like NYC & Miami has always kept my ambitions high. 4 passionate years in restaurants have kept me busy. Together, they've provoked a natural curiosity for testing humanity's limits while providing for it.
