@@ -1,14 +1,17 @@
-  # Erick Manrique
-  Hello, World! I'm a student of General Assembly's SEI program! This README.md us outdated and will shortly be updated! 
+  # Hello World
+  My name is Erick Manrique & I'm currently a student at General Assembly's Software Engineering course.
   <br>
   
-  I aspire to be at least a front-end developer by July 2021. My long-term goal is to become a full-stack Software Engineer, as soon as mentally possible. It's very inspiring to me to think I may end up writing programs for companies like NASA, Tesla, Apple, or maybe even developing high-quality games for a company like EA. 
+I'm Full-Stack software developer, specializing in MERN with a hint of Rails. The proximity of cities with skylines like NYC & Miami has always kept my ambitions high. 4 passionate years in restaurants have kept me busy. Together, they've provoked a natural curiosity for testing humanity's limits while providing for it. 
+<br> 
+This led me to General Assembly! Where I'm currently learning MERN and only getting started on the fast track to sky-high goals at revolutionary companies like Tesla, NASA, Apple, etc. Now I live on my laptop while I daydream about safari's and going to the moon. 
   <br>
   
-  I might have a long way to go but I've already made a dent and I am not finished. 
-  <br>
+  #### tl;dr
+  I'm a nerd at heart with a huge passion for human evolution, space, and nature.
   
   If you are an aspiring software developer who's in the same boat as me <b> or </b> you're here to professionally assess me, please reach out so we can learn, build your business, or do both together!
+  
   <br>
    ### Contact me using: 
   <ul>
