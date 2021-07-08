@@ -5,6 +5,8 @@
   
 # Erick Manrique [he/him]
 
+As a full-stack developer committed to making a difference in society, I am passionate and aware of technology & its contributions to human evolution. Combined with natural leadership skills and a talent for problem-solving, my execution is positive and productive, with the best possible outcome in mind!
+
 ### Who Am I?
 I'm a student of General Assembly's Software Engineering program where I'm learning the MERN-stack, with a hint of Rails at the end. The proximity of cities with skylines like NYC & Miami has always kept my ambitions high. 4 passionate years in restaurants have kept me busy. Together, they've provoked a natural curiosity for testing humanity's limits while providing for it.
 <br/> 
