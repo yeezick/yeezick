@@ -19,14 +19,8 @@ This led me to General Assembly! Where I'm currently learning MERN and only gett
   
   ### Let's Connect!
 
-  If you are an aspiring software developer who's in the same boat as me <b> or </b> you're here to professionally assess me, please reach out so we can learn, build, or both together!
-
-  
-  <ul>
-  <li><a href="https://www.linkedin.com/in/erick-manrique/"> LinkedIn </a> </li>
-  <li><a href='mailto:ramerick5@gmail.com?subject=Nice%20Webpage'> Email </a> </li>
-  <li><a href='https://twitter.com/erckmun'> Twitter </a> </li>
-  </ul>
+  If you are an aspiring software developer who's in the same boat as me <b> or </b> you're here to professionally assess me, please reach out so we can learn, build, or both together! <br/>
+| <a href="https://www.linkedin.com/in/erick-manrique/"> LinkedIn </a>  | <a href='mailto:ramerick5@gmail.com?subject=Nice%20Webpage'> Email </a>  | <a href='https://twitter.com/erckmun'> Twitter </a>  |
   
    #### I have exposure and practice working with 
 | Functionality  | Design |
