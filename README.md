@@ -24,7 +24,6 @@ This led me to General Assembly, where I'm currently learning MERN & Ruby on Rai
   
    #### I have exposure and practice working with 
 | Skills |
-| ------------- | ------------- |
 | Vanilla JS  | Vanilla CSS  |
 | jQuery  | Flexbox  |
 | Axios  | Grid |
