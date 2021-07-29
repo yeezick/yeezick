@@ -23,7 +23,8 @@ This led me to General Assembly, where I'm currently learning MERN & Ruby on Rai
 | <a href="https://www.linkedin.com/in/erick-manrique/"> LinkedIn </a>  | <a href='mailto:ramerick5@gmail.com?subject=Nice%20Webpage'> Email </a>  | <a href='https://twitter.com/erckmun'> Twitter </a>  |
   
    #### I have exposure and practice working with 
-| Skills |
+| Skills | Skills (cont.) |
+|---------------------------|
 | Vanilla JS  | Vanilla CSS  |
 | jQuery  | Flexbox  |
 | Axios  | Grid |
