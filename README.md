@@ -11,7 +11,7 @@ As a full-stack developer committed to making a difference in society, I am pass
 I'm a student of General Assembly's Software Engineering program where I'm learning the MERN-stack, with a hint of Rails at the end. The proximity of cities with skylines like NYC & Miami has always kept my ambitions high. 4 passionate years in restaurants have kept me busy. Together, they've provoked a natural curiosity for testing humanity's limits while providing for it.
 <br/> 
 ### Personal Brand & Goals
-This led me to General Assembly! Where I'm currently learning MERN and only getting started on the fast track to sky-high goals at revolutionary companies like Tesla, NASA, Apple, etc.  Now I live on my laptop while I daydream about safari's and going to the moon.
+This led me to General Assembly, where I'm currently learning MERN & Ruby on Rails. It's only the beginning of my lifelong venture to build & work for companies that are passionate about revolutioninizing technology and the everyday human experience. Now I live on my laptop while I daydream about safari's and going to the moon.
   <br/>
   
   ### Tl;dr
@@ -23,12 +23,14 @@ This led me to General Assembly! Where I'm currently learning MERN and only gett
 | <a href="https://www.linkedin.com/in/erick-manrique/"> LinkedIn </a>  | <a href='mailto:ramerick5@gmail.com?subject=Nice%20Webpage'> Email </a>  | <a href='https://twitter.com/erckmun'> Twitter </a>  |
   
    #### I have exposure and practice working with 
-| Functionality  | Design |
+| Skills |
 | ------------- | ------------- |
 | Vanilla JS  | Vanilla CSS  |
 | jQuery  | Flexbox  |
 | Axios  | Grid |
 | React  | Bootstrap (vanilla + React) |
+| MERN  | Ruby on Rails |
+| PostgreSQL  | Mongo/Mongoose|
 
 
  <small> The most important thing I have left to tell you is to wish you a good day. It doesn't hurt to be positive and I'm certain you deserve it.  </small>
