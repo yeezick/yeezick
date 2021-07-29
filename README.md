@@ -15,7 +15,7 @@ This led me to General Assembly, where I'm currently learning MERN & Ruby on Rai
   <br/>
   
   ### Tl;dr
-  I'm a nerd at heart with a huge passion for human evolution, space, and nature.
+  I'm a nerd at heart with a huge passion for human evolution, space, & nature.
   
   ### Let's Connect!
 
