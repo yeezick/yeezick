@@ -28,7 +28,7 @@ This led me to General Assembly, where I'm currently learning MERN & Ruby on Rai
 | Vanilla JS  | Vanilla CSS  | SASS |
 | jQuery  | Flexbox  | DOM Manipulation|
 | REST API development  | React | Redux| 
-| React  | Front-end Frameworks (e.g Bootstrap) |
+| React  | Front-end Frameworks (e.g Bootstrap) | Full-Stack Development |
 | MongoDB  | Express.js | Node.js |
 | Ruby on Rails  | Mongo/Mongoose| PostgreSQL | 
 | Project/Time management| Debugging | Collaboration |
