@@ -23,14 +23,15 @@ This led me to General Assembly, where I'm currently learning MERN & Ruby on Rai
 | <a href="https://www.linkedin.com/in/erick-manrique/"> LinkedIn </a>  | <a href='mailto:ramerick5@gmail.com?subject=Nice%20Webpage'> Email </a>  | <a href='https://twitter.com/erckmun'> Twitter </a>  |
   
    #### I have exposure and practice working with 
-| Skills | Skills (cont.) |
-| ------------- | ------------- |
-| Vanilla JS  | Vanilla CSS  |
-| jQuery  | Flexbox  |
-| Axios  | Grid |
-| React  | Bootstrap (vanilla + React) |
-| MERN  | Ruby on Rails |
-| PostgreSQL  | Mongo/Mongoose|
+| Skills | Skills (cont.) | More Skills |
+| ------------- | ------------- |  ------ |
+| Vanilla JS  | Vanilla CSS  | SASS |
+| jQuery  | Flexbox  | DOM Manipulation|
+| REST API development  | React | Redux| 
+| React  | Front-end Frameworks (e.g Bootstrap) |
+| MongoDB  | Express.js | Node.js |
+| Ruby on Rails  | Mongo/Mongoose| PostgreSQL | 
+| Project/Time management| Debugging | Collaboration |
 
 
  <small> The most important thing I have left to tell you is to wish you a good day. It doesn't hurt to be positive and I'm certain you deserve it.  </small>
