@@ -2,15 +2,15 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/yeezick/iNetwork/main/src/images/erick-cool.gif" alt="my personal gif from GA :erick-cool:" width="100px" height="100px"/> 
   </div>
-    <div align="center"><sup><sub> * Thank you Zulay for my awesome gif! </sup></sub></div>
   <div align="center">
      <kbd>
-  <a href="" target="_blank">Portfolio</a> | 
-    <a href="" target="_blank">LinkedIn</a> |
-    <a href="" target="_blank">Email</a> | 
-    <a href="" target="_blank">Blog</a> 
+  <a href="https://www.erickmanrique.com/" target="_blank">Portfolio</a> | 
+     <a href="https://docs.google.com/document/d/1g8NDyGHyGl2-6QS3X1DXBa2CCApWMQJnwUSBNb96tt8/edit" target="_blank">Resume</a> |
+    <a href="https://www.linkedin.com/in/erick-manrique/" target="_blank">LinkedIn</a> |
+    <a href="mailto:erickmanriqpro@gmail.com" target="_blank">Email</a> | 
+    <a href="https://medium.com/@ramerick5" target="_blank">Blog</a> 
          </kbd>
-
+ <div align="center"><sup><sub> * Thank you Zulay for my awesome gif! </sup></sub></div>
   </div>
 
   
@@ -29,6 +29,7 @@ Along the way I freelancecd for an NYC-based startup, where I integrated Segment
 I am now a DevOps engineer at MarketAxess where I am the subject matter expert for Rundeck, a tool created to automate operational tasks. By implementing Rundeck as a developer self-service center, my team's workload progressively gets lighter as we identify & automate frequently requested tasks from developers, directly improving their velocity as well.
 
 On the weekends, I lead a cross-functional team of UX designers and Engineers to create a mobile application called [Bootcamper](https://github.com/yeezick/Bootcamper). Our goal is to create a networking that newly graduated bootcamp graduates can use to connect with other designers and engineers over the premise of a project. This presents both roles with a simulated professional working environment as they learn to collaborate with each other and build an application out of willpower instead of Youtube tutorials.
+
 We follow Scrum methodology (something I learned at MarketAxess), visualized by Jira, to delegate tasks, organize our epics, and plan our 3-week sprints. In a way, we are our first users and plan on sharing our experience with our users to help them hit the ground running! We meet weekly on Mondays and are looking to expand our team, feel free to message me if you're interested in accelerating the average bootcamper's graduate-to-hire timeline!
 
   ### Tl;dr
