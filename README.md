@@ -15,6 +15,10 @@
  <div align="center"><sup><sub>  Thank you <a href="https://www.linkedin.com/in/zulays/" target="_blank">Zulay</a> for my awesome gif! </sup></sub></div>
   </div>
 
+
+I am actively sharing my profile for prospective applications and businesses; <b> please note </b> it is outdated by several years and the latest details of my technical projects can be located in my "Experiences" section or within my latest posts on my [LinkedIn](https://www.linkedin.com/in/erick-manrique/). 
+
+Revisiting this read me to update to the latest is an active item on my todo list! 
   
 ## Who Am I 🚼
 
