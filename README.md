@@ -117,12 +117,6 @@ Platform pairing bootcamp graduates into cross-functional product teams over one
 
 ---
 
-## GitHub
-
-[![Erick's GitHub contributions](https://ghchart.rshah.org/2ea043/yeezick)](https://github.com/yeezick)
-
----
-
 ## Writing
 
 | Post | What it's about | |
